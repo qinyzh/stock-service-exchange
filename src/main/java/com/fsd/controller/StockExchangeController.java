@@ -15,7 +15,6 @@ import com.fsd.domain.StockExchange;
 import com.fsd.service.StockExchangeService;
 import com.fsd.util.ResponseResult;
 
-@CrossOrigin
 @RestController
 @RequestMapping("/stockexchange")
 public class StockExchangeController {
